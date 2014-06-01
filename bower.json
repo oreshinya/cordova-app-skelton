@@ -1,0 +1,19 @@
+{
+  "name": "cordova-app-skelton",
+  "version": "0.0.0",
+  "authors": [
+    "shinya takahashi <s.takahashi313@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "~0.10.4",
+    "jquery": "~2.1.1"
+  }
+}
