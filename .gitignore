@@ -18,4 +18,6 @@ platforms/android/ant-gen
 platforms/android/assets/www
 platforms/android/CordovaLib/ant-build
 platforms/android/CordovaLib/ant-gen
+platforms/android/CordovaLib/local.properties
+platforms/android/local.properties
 plugins
